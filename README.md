@@ -2,7 +2,11 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on my personal Website...<br>👯 I’m looking to collaborate on Design Photo And Develop Website...<br>🤝 I’m looking for help with Website Developing..<br>🌱 I’m currently learning Full Stack Developer...<br>💬 Ask me about HTML, CSS, C Language...<br>
+<div class="flex-container">
+
+<div align="left" >
+🔭 I’m currently working on my personal Website...<br>👯 I’m looking to collaborate on Design Photo And Develop Website...<br>🤝 I’m looking for help with Website Developing..<br>🌱 I’m currently learning Full Stack Developer...<br>💬 Ask me about HTML, CSS, C Language...<br></div>
+</div>
 
 
 ## 🌐 Socials:
